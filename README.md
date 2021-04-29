@@ -3,3 +3,4 @@
 
 
 ## 可视化效果
+![image](http://github.com/gypsy111/Python-data-visualization-exercises/master/image/效果.png)
