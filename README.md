@@ -3,4 +3,4 @@
 
 
 ## 可视化效果
-![image](http://github.com/gypsy111/main/Python-data-visualization-exercises/image/%E6%95%88%E6%9E%9C.png)
+![image](https://github.com/gypsy111/Python-data-visualization-exercises/blob/master/image/%E6%95%88%E6%9E%9C.png)
