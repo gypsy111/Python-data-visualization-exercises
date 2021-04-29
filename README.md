@@ -50,7 +50,7 @@ def writer_csv_file():
             writer.writerow(i)
 ```
 
--数据可视化
+- 数据可视化
 使用pyecharts进行数据可视化的工作（个人觉得挺不错的一款工具，对JavaScript没学好的同学及其友好！！！）
 具体实现查看 COVID_data_of_china.py
 下面进行某一帧的可视化效果展示
